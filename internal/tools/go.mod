@@ -13,5 +13,5 @@ require (
 	github.com/securego/gosec/v2 v2.5.0
 	github.com/tcnksm/ghr v0.13.0
 	golang.org/x/tools v0.0.0-20201121010211-780cb80bd7fb
-	honnef.co/go/tools v0.0.1-2020.1.6
+	honnef.co/go/tools v0.2.0-0.dev
 )
